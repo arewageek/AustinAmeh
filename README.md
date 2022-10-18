@@ -36,6 +36,10 @@
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-PreciousEdmund-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/precious-edmund-96860a189?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2wtNHaWRSVms6GpQJ3UgEw%3D%3D)
 
+
+[![@precious4855's Holopin board](https://holopin.me/precious4855)]
+
+
 <div>
  <img src="https://github.com/devicons/devicon/blob/71049a24c1bb0323b30b7e363960417b805ae2fb/icons/csharp/csharp-line.svg" title="csharp" alt="c#" width="40" height ="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/71049a24c1bb0323b30b7e363960417b805ae2fb/icons/dot-net/dot-net-plain-wordmark.svg"title="dotnet" alt=".net" width="40" height="40"/>&nbsp;
