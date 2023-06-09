@@ -24,20 +24,53 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   </div>
 
-## Precious Edmund
-  ### About Me :
-  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-  
-  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+# Cloud Support Engineer / Cloud Engineer
+Welcome to my GitHub profile! Here you will find a collection of projects, scripts, and resources related to cloud support engineering and cloud engineering. As a cloud professional, I'm passionate about leveraging the power of cloud technologies to build scalable, reliable, and secure solutions.
+
+## About Me :
+I am an experienced Cloud Support Engineer/Cloud Engineer with a strong background in cloud computing and a focus on supporting and optimizing cloud infrastructure. I have expertise in various cloud platforms, including AWS, Azure, and Google Cloud, and possess a deep understanding of cloud architecture, networking, security, and automation.
+
+With a customer-centric approach, I strive to deliver top-notch support to ensure smooth operations, troubleshoot issues, and provide solutions that meet business requirements. I am committed to staying up-to-date with the latest trends and best practices in cloud computing to deliver the best possible outcomes.
+
+## Areas of Expertise
+
+- Cloud Infrastructure Management
+- Cloud Deployment and Configuration
+- Cloud Security and Compliance
+- Cloud Monitoring and Optimization
+- Troubleshooting and Issue Resolution
+- Automation and Infrastructure as Code (IaC)
+- Scripting and Development in Cloud Environments
+
+Feel free to explore the repositories to gain insights into my work and contributions. Contributions, suggestions, and feedback are always welcome!
+
+## Technical Skills
+
+- Cloud Platforms: AWS, Azure, Google Cloud
+- Programming Languages: Python, Bash, PowerShell
+- Infrastructure as Code (IaC): Terraform, CloudFormation
+- CI/CD: Jenkins, GitLab CI/CD, CircleCI
+- Containers and Orchestration: Docker, Kubernetes
+- Networking: VPC, Subnets, Security Groups, Load Balancers
+- Monitoring and Logging: CloudWatch, Azure Monitor, Stackdriver
+- Security: IAM, Security Groups, NACLs, Encryption
+- Databases: RDS, DynamoDB, Azure SQL, Cloud Spanner
+
+## Occupation 😊
+- :telescope: I’m working as a Cloud Support Engineer and contributing to Cloud innovations and exploring the limitless possibilities of the cloud.
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
+## Connect with Me
+
+I'm always excited to connect with fellow cloud enthusiasts, share knowledge, and collaborate on interesting projects. You can reach me through the following channels:
+
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-PreciousEdmund-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/precious-edmund-96860a189?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2wtNHaWRSVms6GpQJ3UgEw%3D%3D)
 
 
-[![@precious4855's Holopin board](https://holopin.me/precious4855)]
+![@precious4855's Holopin board](https://holopin.me/precious4855)
 
 
 <div>
@@ -83,4 +116,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Projects and Contributions
+
+- [Project 1](link-to-project): Brief description of the project and its objectives.
+- [Project 2](link-to-project): Brief description of the project and its objectives.
+- [Project 3](link-to-project): Brief description of the project and its objectives.
+
 -->
