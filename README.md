@@ -3,13 +3,13 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center" >
-<a href="https://www.linkedin.com/in/precious-edmund-96860a189?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2wtNHaWRSVms6GpQJ3UgEw%3D%3D">
+<a href="https://ng.linkedin.com/in/austin-ameh-a2315b165">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://wa.me/qr/KDI6C7PNBP2FH1">
+  <a href="https://wa.link/x0tn4e">
     <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
-  <a href="https://twitter.com/PreshyEdmund">
+  <a href="https://twitter.com/arewageek">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   </div>
@@ -24,37 +24,31 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   </div>
 
-# Cloud Support Engineer / Cloud Engineer
-Welcome to my GitHub profile! Here you will find a collection of projects, scripts, and resources related to cloud support engineering and cloud engineering. As a cloud professional, I'm passionate about leveraging the power of cloud technologies to build scalable, reliable, and secure solutions.
+# Software Developer | Web3 Ethusiast
+Welcome to my GitHub profile! Here you will find an array of projects, codes, and resources linked to software development and the captivating realm of web3 technology. As a dedicated software developer, my passion lies in harnessing the potential of web3 technologies to craft innovative and decentralized solutions.
 
 ## About Me :
-I am an experienced Cloud Support Engineer/Cloud Engineer with a strong background in cloud computing and a focus on supporting and optimizing cloud infrastructure. I have expertise in various cloud platforms, including AWS, Azure, and Google Cloud, and possess a deep understanding of cloud architecture, networking, security, and automation.
+I'm a passionate Software Developer with a knack for crafting dynamic and user-friendly applications. While my journey has been primarily rooted in traditional development, my curiosity has led me to explore the transformative potential of web3 technologies. This blend of expertise equips me to create innovative solutions that bridge the gap between conventional and decentralized systems.
 
-With a customer-centric approach, I strive to deliver top-notch support to ensure smooth operations, troubleshoot issues, and provide solutions that meet business requirements. I am committed to staying up-to-date with the latest trends and best practices in cloud computing to deliver the best possible outcomes.
+Embracing the essence of web3, I'm actively immersing myself in the world of blockchain, smart contracts, and decentralized applications. My goal is to contribute to this evolving landscape and cultivate a deeper understanding of how web3 can reshape the digital realm.
 
 ## Areas of Expertise
 
-- Cloud Infrastructure Management
-- Cloud Deployment and Configuration
-- Cloud Security and Compliance
-- Cloud Monitoring and Optimization
-- Troubleshooting and Issue Resolution
-- Automation and Infrastructure as Code (IaC)
-- Scripting and Development in Cloud Environments
+- Web Development with a Glimpse of Web3
+- Application Design with User-Centric Focus
+- Exploring the Frontiers of Blockchain Integration
+- Problem Solving and Debugging
+- Collaboration for Code Excellence
 
-Feel free to explore the repositories to gain insights into my work and contributions. Contributions, suggestions, and feedback are always welcome!
+Feel free to explore my repositories to witness my evolving journey. Whether it's traditional development or the nascent world of web3, I'm enthusiastic about pushing boundaries and delivering meaningful solutions.
 
 ## Technical Skills
 
-- Cloud Platforms: AWS, Azure, Google Cloud
-- Programming Languages: Python, Bash, PowerShell
-- Infrastructure as Code (IaC): Terraform, CloudFormation
-- CI/CD: Jenkins, GitLab CI/CD, CircleCI
-- Containers and Orchestration: Docker, Kubernetes
-- Networking: VPC, Subnets, Security Groups, Load Balancers
-- Monitoring and Logging: CloudWatch, Azure Monitor, Stackdriver
-- Security: IAM, Security Groups, NACLs, Encryption
-- Databases: RDS, DynamoDB, Azure SQL, Cloud Spanner
+- Programming Languages: JavaScript, PHP, Solidity, Python
+- Web Development Tools: React, Redux, Express
+- Traditional Databases: MySQL, MongoDB
+- Cloud Services: Firebase
+- Version Control: Git, GitHub
 
 ## Occupation 😊
 - :telescope: I’m working as a Cloud Support Engineer and contributing to Cloud innovations and exploring the limitless possibilities of the cloud.
@@ -65,62 +59,4 @@ Feel free to explore the repositories to gain insights into my work and contribu
 
 ## Connect with Me
 
-I'm always excited to connect with fellow cloud enthusiasts, share knowledge, and collaborate on interesting projects. You can reach me through the following channels:
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-PreciousEdmund-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/precious-edmund-96860a189?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2wtNHaWRSVms6GpQJ3UgEw%3D%3D)
-
-
-![@precious4855's Holopin board](https://holopin.me/precious4855)
-
-
-<div>
- <img src="https://github.com/devicons/devicon/blob/71049a24c1bb0323b30b7e363960417b805ae2fb/icons/csharp/csharp-line.svg" title="csharp" alt="c#" width="40" height ="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/71049a24c1bb0323b30b7e363960417b805ae2fb/icons/dot-net/dot-net-plain-wordmark.svg"title="dotnet" alt=".net" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/71049a24c1bb0323b30b7e363960417b805ae2fb/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL" alt="SQLSERVER" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/71049a24c1bb0323b30b7e363960417b805ae2fb/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-
----
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PreciousEddy&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PreciousEddy&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### :writing_hand: Blog Posts :
-
-<!-- BLOG-POST-LIST:START -->
-- [Test Post](https://dev.to/itszed0/test-post-490g)
-<!-- BLOG-POST-LIST:END -->
-
-<!--
-**PreciousEddy/PreciousEddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-## Projects and Contributions
-
-- [Project 1](link-to-project): Brief description of the project and its objectives.
-- [Project 2](link-to-project): Brief description of the project and its objectives.
-- [Project 3](link-to-project): Brief description of the project and its objectives.
-
--->
+I'm always excited to connect with fellow software developers, share knowledge, and collaborate on interesting projects.
